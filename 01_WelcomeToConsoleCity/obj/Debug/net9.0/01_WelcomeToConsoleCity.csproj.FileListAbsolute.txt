@@ -1,0 +1,14 @@
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/01_WelcomeToConsoleCity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/01_WelcomeToConsoleCity.AssemblyInfoInputs.cache
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/01_WelcomeToConsoleCity.AssemblyInfo.cs
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/01_WelcomeToConsoleCity.csproj.CoreCompileInputs.cache
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/bin/Debug/net9.0/01_WelcomeToConsoleCity
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/bin/Debug/net9.0/01_WelcomeToConsoleCity.deps.json
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/bin/Debug/net9.0/01_WelcomeToConsoleCity.runtimeconfig.json
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/bin/Debug/net9.0/01_WelcomeToConsoleCity.dll
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/bin/Debug/net9.0/01_WelcomeToConsoleCity.pdb
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/01_WelcomeToConsoleCity.dll
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/refint/01_WelcomeToConsoleCity.dll
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/01_WelcomeToConsoleCity.pdb
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/01_WelcomeToConsoleCity.genruntimeconfig.cache
+/Users/fidandashdamirova/Desktop/CSharp-Portfolio/01_WelcomeToConsoleCity/obj/Debug/net9.0/ref/01_WelcomeToConsoleCity.dll
