@@ -7,3 +7,4 @@ Simulates a police chase with four possible outcomes based on player choices.
 - User Input (Console.ReadLine())
 
 ![Console Output](screenshot.png)
+
